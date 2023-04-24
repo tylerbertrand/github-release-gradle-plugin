@@ -2,7 +2,7 @@
 
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# 
+#
 User-specific stuff:
 
 .idea/workspace.xml
@@ -12,6 +12,7 @@ User-specific stuff:
 
 
 # Sensitive or high-churn files:
+.idea/
 
 .idea/dataSources/
 
